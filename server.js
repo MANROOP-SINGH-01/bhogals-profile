@@ -20,6 +20,10 @@ const MIME_TYPES = {
   '.ttf': 'font/ttf',
   '.mp3': 'audio/mpeg',
   '.wav': 'audio/wav',
+  '.glb': 'model/gltf-binary',
+  '.gltf': 'model/gltf+json',
+  '.bin': 'application/octet-stream',
+  '.hdr': 'image/vnd.radiance',
 };
 
 const server = http.createServer((req, res) => {
@@ -44,11 +48,13 @@ const server = http.createServer((req, res) => {
 
   fs.stat(filePath, (err, stats) => {
     if (err || !stats.isFile()) {
+      console.log(`[404] ${req.method} ${reqUrl} -> NOT FOUND: ${filePath}`);
       res.writeHead(404, { 'Content-Type': 'text/plain; charset=UTF-8' });
       res.end(`404 Not Found: ${reqUrl}`);
       return;
     }
 
+    console.log(`[200] ${req.method} ${reqUrl}`);
     res.writeHead(200, {
       'Content-Type': contentType,
       'Content-Length': stats.size,
