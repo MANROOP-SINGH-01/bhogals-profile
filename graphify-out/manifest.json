@@ -90,9 +90,9 @@
     "semantic_hash": ""
   },
   "server.js": {
-    "mtime": 1788708372.377805,
-    "seen": 1788716039.242919,
-    "ast_hash": "35a4bef331def20ecc9c16134edd1287",
+    "mtime": 1788718731.9439812,
+    "seen": 1788719333.720232,
+    "ast_hash": "4506f9d3b366718be3c8e0839532aafd",
     "semantic_hash": ""
   },
   ".agents/rules/graphify.md": {
@@ -150,9 +150,9 @@
     "semantic_hash": ""
   },
   "index.html": {
-    "mtime": 1788715838.1646917,
-    "seen": 1788716039.2429278,
-    "ast_hash": "ab2a563dfa68a623449e9c255c897be1",
+    "mtime": 1788719064.869774,
+    "seen": 1788719333.7202554,
+    "ast_hash": "c98af93a10610ea359b59420ac4615ca",
     "semantic_hash": ""
   },
   "icon.png": {
@@ -231,6 +231,582 @@
     "mtime": 1788706859.8456633,
     "seen": 1788716039.2429392,
     "ast_hash": "c153c4ebbbe7e1d3361811391b2bcbf1",
+    "semantic_hash": ""
+  },
+  "_next/static/chunks/0_4ses66oith4.js": {
+    "mtime": 1788717915.0369363,
+    "seen": 1788719333.7201416,
+    "ast_hash": "5270c166f9471775727e0a5f1ab5c98d",
+    "semantic_hash": ""
+  },
+  "_next/static/chunks/0hpmu6y5pcz-6.js": {
+    "mtime": 1788717929.1039748,
+    "seen": 1788719333.7201557,
+    "ast_hash": "37ae721f1a79278593b534ec9da824c7",
+    "semantic_hash": ""
+  },
+  "_next/static/chunks/0w2vz4x4dipup.js": {
+    "mtime": 1788717915.9842536,
+    "seen": 1788719333.720158,
+    "ast_hash": "60e37a3f8866a1e78fafeadeb55a0dae",
+    "semantic_hash": ""
+  },
+  "_next/static/chunks/16pi36xfne0rk.js": {
+    "mtime": 1788717914.6963973,
+    "seen": 1788719333.7201636,
+    "ast_hash": "27f252b7a10fdc6aa72218fa86f4109f",
+    "semantic_hash": ""
+  },
+  "_next/static/chunks/17nuo0dnjkgrz.js": {
+    "mtime": 1788717915.552429,
+    "seen": 1788719333.7201672,
+    "ast_hash": "62aabb739939615db832e5ce274c7f3f",
+    "semantic_hash": ""
+  },
+  "_next/static/chunks/1_sxxlgyc4uim.js": {
+    "mtime": 1788717929.407977,
+    "seen": 1788719333.7201686,
+    "ast_hash": "c823092b2b2b6abbebbb8e9fd0f7033f",
+    "semantic_hash": ""
+  },
+  "_next/static/chunks/1beylq6b7woc9.js": {
+    "mtime": 1788717929.8291655,
+    "seen": 1788719333.72017,
+    "ast_hash": "d7dff6f8aa10599202b95a69689dec5c",
+    "semantic_hash": ""
+  },
+  "_next/static/chunks/1m2oy-4x0x77g.js": {
+    "mtime": 1788717916.3733075,
+    "seen": 1788719333.720174,
+    "ast_hash": "3c9492fb474fd9143449a7428da5f03c",
+    "semantic_hash": ""
+  },
+  "_next/static/chunks/1nu1oitbknbom.js": {
+    "mtime": 1788717930.1872084,
+    "seen": 1788719333.7201755,
+    "ast_hash": "abad87aca3623095949814adf67e4c7e",
+    "semantic_hash": ""
+  },
+  "_next/static/chunks/3id5ud61v2318.js": {
+    "mtime": 1788719179.1417782,
+    "seen": 1788719333.720192,
+    "ast_hash": "9a672cfc2fac68001eb086b4e8ac881a",
+    "semantic_hash": ""
+  },
+  "_next/static/chunks/3rn5ibzyuqbv0.js": {
+    "mtime": 1788717914.4207025,
+    "seen": 1788719333.720196,
+    "ast_hash": "004a02bc8f7aea7b09da64e4b957cbdb",
+    "semantic_hash": ""
+  },
+  "_next/static/chunks/3zazvxpy9wdmi.js": {
+    "mtime": 1788717931.6050777,
+    "seen": 1788719333.7201974,
+    "ast_hash": "2f7185d958c5a629e664eb89f81ef4dd",
+    "semantic_hash": ""
+  },
+  "_next/static/chunks/3zvdygm9kdu4r.js": {
+    "mtime": 1788719157.1494727,
+    "seen": 1788719333.7201989,
+    "ast_hash": "33b3a2f76a36df36531abe38ccd61222",
+    "semantic_hash": ""
+  },
+  "audit_names.py": {
+    "mtime": 1788719160.0910459,
+    "seen": 1788719333.7202027,
+    "ast_hash": "e1f9da9b70b72c82d85296873e9c00dc",
+    "semantic_hash": ""
+  },
+  "check_all_refs.py": {
+    "mtime": 1788718683.6421628,
+    "seen": 1788719333.7202044,
+    "ast_hash": "489de72041b5f70d65dc6b238f34dc8c",
+    "semantic_hash": ""
+  },
+  "check_static.py": {
+    "mtime": 1788718675.4596305,
+    "seen": 1788719333.7202058,
+    "ast_hash": "11f73303b4c543662636168c2a46349d",
+    "semantic_hash": ""
+  },
+  "clean_nav.py": {
+    "mtime": 1788718662.9589398,
+    "seen": 1788719333.7202072,
+    "ast_hash": "016941a17d604daea536fe91ac9da0df",
+    "semantic_hash": ""
+  },
+  "download_all_covers.py": {
+    "mtime": 1788719114.430819,
+    "seen": 1788719333.7202086,
+    "ast_hash": "b0a5a71e505ef510ff1bcafa5ce5b9d9",
+    "semantic_hash": ""
+  },
+  "download_cubemaps.py": {
+    "mtime": 1788718719.4516244,
+    "seen": 1788719333.7202098,
+    "ast_hash": "a78b3f3db88f70de35189a9f6afd56c4",
+    "semantic_hash": ""
+  },
+  "download_model.py": {
+    "mtime": 1788718702.9543133,
+    "seen": 1788719333.7202113,
+    "ast_hash": "ffc9fcac5c34df58b3a6e3e5817e4326",
+    "semantic_hash": ""
+  },
+  "extract_all_covers.py": {
+    "mtime": 1788719106.2373898,
+    "seen": 1788719333.7202127,
+    "ast_hash": "28a5cd1ddcc80b42126e6ae3d350e3f6",
+    "semantic_hash": ""
+  },
+  "find_3d_assets.py": {
+    "mtime": 1788718692.255296,
+    "seen": 1788719333.7202141,
+    "ast_hash": "ea66d5367259914848d6f1f28ef7a0b5",
+    "semantic_hash": ""
+  },
+  "find_all_absolute_assets.py": {
+    "mtime": 1788718712.188977,
+    "seen": 1788719333.7202156,
+    "ast_hash": "c8fb1a0fc983a7989062a76ce8512fda",
+    "semantic_hash": ""
+  },
+  "inject_safe_graphify.py": {
+    "mtime": 1788718740.084791,
+    "seen": 1788719333.7202168,
+    "ast_hash": "0124e4e7e1e6922341f3da1c3386cc02",
+    "semantic_hash": ""
+  },
+  "inspect_G.py": {
+    "mtime": 1788719095.5713882,
+    "seen": 1788719333.7202184,
+    "ast_hash": "a832982990747071bf82e175526e80b6",
+    "semantic_hash": ""
+  },
+  "inspect_covers_code.py": {
+    "mtime": 1788719085.648466,
+    "seen": 1788719333.7202196,
+    "ast_hash": "2329414fb12e1b5917b2acc37c79ff3d",
+    "semantic_hash": ""
+  },
+  "inspect_games.py": {
+    "mtime": 1788719078.6910233,
+    "seen": 1788719333.720221,
+    "ast_hash": "6e29f5ca4528b8ca4b8c1b9e5c1e538b",
+    "semantic_hash": ""
+  },
+  "inspect_shelf.py": {
+    "mtime": 1788719070.6535065,
+    "seen": 1788719333.7202222,
+    "ast_hash": "73eb3fa23bdea4f540b16feb4ca81b3a",
+    "semantic_hash": ""
+  },
+  "rebrand_monitor.py": {
+    "mtime": 1788719173.9134593,
+    "seen": 1788719333.7202258,
+    "ast_hash": "c7a8e18121777d44d95af42cccf8a57f",
+    "semantic_hash": ""
+  },
+  "rebrand_shelf.py": {
+    "mtime": 1788719152.2758584,
+    "seen": 1788719333.720227,
+    "ast_hash": "6058f8cbdf6314234965c96c1a313463",
+    "semantic_hash": ""
+  },
+  "remove_graphify.py": {
+    "mtime": 1788718640.9152937,
+    "seen": 1788719333.7202284,
+    "ast_hash": "2d11c4ccf8b8a84f8f71d8bbef02f458",
+    "semantic_hash": ""
+  },
+  "remove_injected_graphify.py": {
+    "mtime": 1788719059.2765665,
+    "seen": 1788719333.7202296,
+    "ast_hash": "59a67678d6eb0c1d80907d214e13f869",
+    "semantic_hash": ""
+  },
+  "vercel.json": {
+    "mtime": 1788717163.0284648,
+    "seen": 1788719333.7202334,
+    "ast_hash": "9bdacd949e0110e2ce251ee13c251ff1",
+    "semantic_hash": ""
+  },
+  "covers/a-way-out.jpg": {
+    "mtime": 1788719130.0864701,
+    "seen": 1788719333.720257,
+    "ast_hash": "22dfb5e2bf924e4b2b26c746a62b9adf",
+    "semantic_hash": ""
+  },
+  "covers/ac-odyssey.jpg": {
+    "mtime": 1788719128.7123883,
+    "seen": 1788719333.7202582,
+    "ast_hash": "9d94f0b39d64caa6d50d0103315348b6",
+    "semantic_hash": ""
+  },
+  "covers/apex.jpg": {
+    "mtime": 1788719124.840057,
+    "seen": 1788719333.7202597,
+    "ast_hash": "6f346031a41ab8d5692f25b5a4af58b1",
+    "semantic_hash": ""
+  },
+  "covers/awesomenauts.jpg": {
+    "mtime": 1788719130.297926,
+    "seen": 1788719333.720261,
+    "ast_hash": "a55ffdd496a34e27e3f2b9d31f6c1e72",
+    "semantic_hash": ""
+  },
+  "covers/black-flag.jpg": {
+    "mtime": 1788719129.0992644,
+    "seen": 1788719333.7202623,
+    "ast_hash": "db3fa5cbe207eca9109af7172093fc38",
+    "semantic_hash": ""
+  },
+  "covers/cod-aw.jpg": {
+    "mtime": 1788719123.040771,
+    "seen": 1788719333.7202637,
+    "ast_hash": "716841b174a7c34f7e33b6d6dc122eb7",
+    "semantic_hash": ""
+  },
+  "covers/cod-black-ops-6.jpg": {
+    "mtime": 1788719120.3849046,
+    "seen": 1788719333.7202659,
+    "ast_hash": "f262f694fbc2a1a5d4864fb85ff3a196",
+    "semantic_hash": ""
+  },
+  "covers/cod-black-ops.jpg": {
+    "mtime": 1788719120.2181137,
+    "seen": 1788719333.720267,
+    "ast_hash": "8dfe09307a6cd03a984f392aa55d5d38",
+    "semantic_hash": ""
+  },
+  "covers/cod-ghosts.jpg": {
+    "mtime": 1788719122.850532,
+    "seen": 1788719333.7202682,
+    "ast_hash": "0bc6b07f9d823006730de7ba6ace06e6",
+    "semantic_hash": ""
+  },
+  "covers/cod-mw-2019.jpg": {
+    "mtime": 1788719121.2200382,
+    "seen": 1788719333.72027,
+    "ast_hash": "01a80967a5641ecfbd5332c2bc6a79c8",
+    "semantic_hash": ""
+  },
+  "covers/cod-mw2.jpg": {
+    "mtime": 1788719121.3876486,
+    "seen": 1788719333.7202713,
+    "ast_hash": "563fb14785cab2fe04e8d750eeff94ed",
+    "semantic_hash": ""
+  },
+  "covers/cod-mw3.jpg": {
+    "mtime": 1788719121.8787558,
+    "seen": 1788719333.7202725,
+    "ast_hash": "ab652e5ce54b03d8582a490d94c2fd07",
+    "semantic_hash": ""
+  },
+  "covers/cod-vanguard.jpg": {
+    "mtime": 1788719123.2188869,
+    "seen": 1788719333.720274,
+    "ast_hash": "3be055cc6aae4c9363d4110dad29db40",
+    "semantic_hash": ""
+  },
+  "covers/cod-warzone.jpg": {
+    "mtime": 1788719123.385636,
+    "seen": 1788719333.7202752,
+    "ast_hash": "8995ec89f917b08baebc658869a07040",
+    "semantic_hash": ""
+  },
+  "covers/cod-wwii.jpg": {
+    "mtime": 1788719122.3581727,
+    "seen": 1788719333.7202783,
+    "ast_hash": "17104e341a2a4ab29e598cbf0fe32b00",
+    "semantic_hash": ""
+  },
+  "covers/cod4-mw.jpg": {
+    "mtime": 1788719120.797772,
+    "seen": 1788719333.7202795,
+    "ast_hash": "a6d9dcc2bd216ec08f9024e5bd0b368a",
+    "semantic_hash": ""
+  },
+  "covers/csgo.jpg": {
+    "mtime": 1788719119.5025458,
+    "seen": 1788719333.720281,
+    "ast_hash": "6166de4ac4b5c2d1f9175b56c8f43331",
+    "semantic_hash": ""
+  },
+  "covers/dead-to-rights-2.jpg": {
+    "mtime": 1788719132.8761442,
+    "seen": 1788719333.7202823,
+    "ast_hash": "853e50cb47860fe89831872612a26354",
+    "semantic_hash": ""
+  },
+  "covers/don-bradman.jpg": {
+    "mtime": 1788719131.8051398,
+    "seen": 1788719333.7202835,
+    "ast_hash": "c38c5561af6c1138923a8a5e218667ef",
+    "semantic_hash": ""
+  },
+  "covers/dying-light-beast.jpg": {
+    "mtime": 1788719129.4881933,
+    "seen": 1788719333.720285,
+    "ast_hash": "b189555872031527acf87bb91d54b9f0",
+    "semantic_hash": ""
+  },
+  "covers/evil-within-2.jpg": {
+    "mtime": 1788719130.6323886,
+    "seen": 1788719333.7202864,
+    "ast_hash": "c152621450fea89d72d3c070ccc23591",
+    "semantic_hash": ""
+  },
+  "covers/far-cry-5.jpg": {
+    "mtime": 1788719123.894351,
+    "seen": 1788719333.720288,
+    "ast_hash": "7eae250dd32d60b08b73eb9710eafaef",
+    "semantic_hash": ""
+  },
+  "covers/far-cry-6.jpg": {
+    "mtime": 1788719124.0809915,
+    "seen": 1788719333.7202892,
+    "ast_hash": "c45084de336dc6ee774b2cbc85861116",
+    "semantic_hash": ""
+  },
+  "covers/finals.jpg": {
+    "mtime": 1788719125.0335245,
+    "seen": 1788719333.7202907,
+    "ast_hash": "4341dd1f3cb6f24aac73a401c0a943c8",
+    "semantic_hash": ""
+  },
+  "covers/firewatch.jpg": {
+    "mtime": 1788719127.497808,
+    "seen": 1788719333.7202916,
+    "ast_hash": "89726d62a4d58b7c19d71187e17f7489",
+    "semantic_hash": ""
+  },
+  "covers/fortnite.jpg": {
+    "mtime": 1788719125.3836334,
+    "seen": 1788719333.720293,
+    "ast_hash": "98b2539eb7853553f134def9f3c69dcc",
+    "semantic_hash": ""
+  },
+  "covers/fragpunk.jpg": {
+    "mtime": 1788719125.2308915,
+    "seen": 1788719333.7202945,
+    "ast_hash": "935723661c55fdf24bfe0d634668db5c",
+    "semantic_hash": ""
+  },
+  "covers/gta5.jpg": {
+    "mtime": 1788719128.0780725,
+    "seen": 1788719333.7202957,
+    "ast_hash": "22421ef6f59d25a0145fdbc409d44085",
+    "semantic_hash": ""
+  },
+  "covers/hitman.jpg": {
+    "mtime": 1788719120.0656514,
+    "seen": 1788719333.7202969,
+    "ast_hash": "0bd2d0ee2aeb7e1bf96abaf3d32c6115",
+    "semantic_hash": ""
+  },
+  "covers/hulk.jpg": {
+    "mtime": 1788719133.2955256,
+    "seen": 1788719333.7202983,
+    "ast_hash": "6dee3b272eda59b0c1811c0e235d8ae5",
+    "semantic_hash": ""
+  },
+  "covers/igi.jpg": {
+    "mtime": 1788719119.884638,
+    "seen": 1788719333.7202995,
+    "ast_hash": "6fb486b55e42b858534d50bd32cf79e6",
+    "semantic_hash": ""
+  },
+  "covers/it-takes-two.jpg": {
+    "mtime": 1788719129.6935601,
+    "seen": 1788719333.720301,
+    "ast_hash": "f1cd5453fd6521ee8f7fa89c61e1cd2d",
+    "semantic_hash": ""
+  },
+  "covers/lego-marvel.jpg": {
+    "mtime": 1788719133.111717,
+    "seen": 1788719333.720302,
+    "ast_hash": "ca9e9f82753af9b82b9e7c572fed14e7",
+    "semantic_hash": ""
+  },
+  "covers/liberty-city.jpg": {
+    "mtime": 1788719128.4908822,
+    "seen": 1788719333.720304,
+    "ast_hash": "c920a079c2d627f021b76069238d2f69",
+    "semantic_hash": ""
+  },
+  "covers/mafia-3.jpg": {
+    "mtime": 1788719127.7022681,
+    "seen": 1788719333.7203062,
+    "ast_hash": "1478eef0f007b94ce50f4b603c9443c2",
+    "semantic_hash": ""
+  },
+  "covers/miles-morales.jpg": {
+    "mtime": 1788719126.6624184,
+    "seen": 1788719333.7203074,
+    "ast_hash": "972a083c6b361fda6e28760747bbe94c",
+    "semantic_hash": ""
+  },
+  "covers/minecraft-story.jpg": {
+    "mtime": 1788719127.8923204,
+    "seen": 1788719333.7203088,
+    "ast_hash": "e81e61939894106a40f61166b9abde3f",
+    "semantic_hash": ""
+  },
+  "covers/minecraft.jpg": {
+    "mtime": 1788719131.95862,
+    "seen": 1788719333.7203102,
+    "ast_hash": "0cd5104e6a33cbfbc62293685d79311a",
+    "semantic_hash": ""
+  },
+  "covers/nfs-mw-2005.jpg": {
+    "mtime": 1788719130.8414042,
+    "seen": 1788719333.7203116,
+    "ast_hash": "714c5115b05712db654df7693f65737f",
+    "semantic_hash": ""
+  },
+  "covers/nfs-unbound.jpg": {
+    "mtime": 1788719131.0391102,
+    "seen": 1788719333.7203128,
+    "ast_hash": "f4223cf5000348e3f8175d590f6ec317",
+    "semantic_hash": ""
+  },
+  "covers/overwatch-2.jpg": {
+    "mtime": 1788719124.6455016,
+    "seen": 1788719333.720314,
+    "ast_hash": "7b2005da333ce51d89188af29f9f54ca",
+    "semantic_hash": ""
+  },
+  "covers/phasmophobia.jpg": {
+    "mtime": 1788719130.4507754,
+    "seen": 1788719333.7203155,
+    "ast_hash": "b939c5308c2c229e63aa580383637c52",
+    "semantic_hash": ""
+  },
+  "covers/plague-tale.jpg": {
+    "mtime": 1788719127.3494678,
+    "seen": 1788719333.7203166,
+    "ast_hash": "cfb5535b1b4a77410d41ba6bab34ed92",
+    "semantic_hash": ""
+  },
+  "covers/pubg.jpg": {
+    "mtime": 1788719119.704502,
+    "seen": 1788719333.7203183,
+    "ast_hash": "f7396bb7b688988cda9bdfe06d955cb0",
+    "semantic_hash": ""
+  },
+  "covers/pvz.jpg": {
+    "mtime": 1788719132.3040485,
+    "seen": 1788719333.7203195,
+    "ast_hash": "391a5a4f280a4f7bd0f900f43ea5e46e",
+    "semantic_hash": ""
+  },
+  "covers/rdr2.jpg": {
+    "mtime": 1788719125.5898094,
+    "seen": 1788719333.720321,
+    "ast_hash": "8a1ea43784dc7ead67a31a5bf34785c1",
+    "semantic_hash": ""
+  },
+  "covers/roblox.jpg": {
+    "mtime": 1788719132.106522,
+    "seen": 1788719333.7203224,
+    "ast_hash": "919a1884793169aebb3f4deed518edcd",
+    "semantic_hash": ""
+  },
+  "covers/rocket-league.jpg": {
+    "mtime": 1788719131.4295342,
+    "seen": 1788719333.7203236,
+    "ast_hash": "e528b76177f0f050aa123784e1e56a8f",
+    "semantic_hash": ""
+  },
+  "covers/serious-sam-3.jpg": {
+    "mtime": 1788719124.444283,
+    "seen": 1788719333.7203248,
+    "ast_hash": "9ce5f0f468c0e67b16a154db7a398a65",
+    "semantic_hash": ""
+  },
+  "covers/shank-2.jpg": {
+    "mtime": 1788719132.6654484,
+    "seen": 1788719333.7203262,
+    "ast_hash": "4c511bc68c5cb18981782c333953a095",
+    "semantic_hash": ""
+  },
+  "covers/spiderman.jpg": {
+    "mtime": 1788719126.4823048,
+    "seen": 1788719333.7203274,
+    "ast_hash": "661b16ef3a3d4a0fca3ebf5952cef1ea",
+    "semantic_hash": ""
+  },
+  "covers/split-fiction.jpg": {
+    "mtime": 1788719129.8937354,
+    "seen": 1788719333.7203288,
+    "ast_hash": "6aff1b91b2af643cad0ea8c10156cd9e",
+    "semantic_hash": ""
+  },
+  "covers/tlou.jpg": {
+    "mtime": 1788719125.7507107,
+    "seen": 1788719333.7203302,
+    "ast_hash": "50a3d536f14745331b24c97bd08214ee",
+    "semantic_hash": ""
+  },
+  "covers/tomb-raider.jpg": {
+    "mtime": 1788719126.8635118,
+    "seen": 1788719333.7203317,
+    "ast_hash": "8f50f957c0f486dfb7723432d8a346d3",
+    "semantic_hash": ""
+  },
+  "covers/total-overdose.jpg": {
+    "mtime": 1788719132.522336,
+    "seen": 1788719333.7203329,
+    "ast_hash": "c87e4617406abbbfb9e6b2b150024ce9",
+    "semantic_hash": ""
+  },
+  "covers/tsushima.jpg": {
+    "mtime": 1788719126.143443,
+    "seen": 1788719333.7203343,
+    "ast_hash": "404729e236a86fc2f854ea07d4e2bfec",
+    "semantic_hash": ""
+  },
+  "covers/uncharted.jpg": {
+    "mtime": 1788719125.9001224,
+    "seen": 1788719333.7203357,
+    "ast_hash": "9f48583ce23c8ebfa7c57c27ea3f3aac",
+    "semantic_hash": ""
+  },
+  "covers/valorant.jpg": {
+    "mtime": 1788719119.3188057,
+    "seen": 1788719333.7203372,
+    "ast_hash": "a1cfa01d392e48c3d4cbe79642165cd5",
+    "semantic_hash": ""
+  },
+  "covers/vice-city.jpg": {
+    "mtime": 1788719128.2793138,
+    "seen": 1788719333.7203383,
+    "ast_hash": "069df5b19d6a7bf743bd5c41ddd6faf8",
+    "semantic_hash": ""
+  },
+  "covers/watch-dogs-2.jpg": {
+    "mtime": 1788719129.302324,
+    "seen": 1788719333.7203398,
+    "ast_hash": "0b9e983eb4998f9b644f449c5399b398",
+    "semantic_hash": ""
+  },
+  "covers/witcher3.jpg": {
+    "mtime": 1788719126.3326168,
+    "seen": 1788719333.720341,
+    "ast_hash": "0a4dbc79b5ae77fb8ecce78c0f3d7d6f",
+    "semantic_hash": ""
+  },
+  "covers/wolfenstein.jpg": {
+    "mtime": 1788719124.2532675,
+    "seen": 1788719333.7203426,
+    "ast_hash": "7ee18e4ae6e2a10386ce41e7b73a7392",
+    "semantic_hash": ""
+  },
+  "covers/wwe-2k18.jpg": {
+    "mtime": 1788719131.6390865,
+    "seen": 1788719333.7203436,
+    "ast_hash": "730fcb4a723b4a2910f1b8ff4179e4ea",
     "semantic_hash": ""
   }
 }
