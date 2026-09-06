@@ -1,0 +1,19 @@
+{
+  "name": "manroop-singh-bhogal-portfolio",
+  "version": "1.0.0",
+  "description": "1:1 Replica of Portfolio for Manroop Singh Bhogal",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "agentic-ai",
+    "threejs",
+    "terminal",
+    "web-audio"
+  ],
+  "author": "Manroop Singh Bhogal",
+  "license": "MIT"
+}
