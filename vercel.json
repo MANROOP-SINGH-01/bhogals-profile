@@ -4,9 +4,7 @@
   "installCommand": null,
   "framework": null,
   "outputDirectory": ".",
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ],
+  "cleanUrls": true,
   "headers": [
     {
       "source": "/_next/static/media/(.*)",
