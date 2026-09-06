@@ -46,7 +46,7 @@ This document defines the requirements for **Manroop Singh Bhogal's Interactive 
   - GitHub: `https://github.com/MANROOP-SINGH-01`
   - LinkedIn: `https://www.linkedin.com/in/manroop-singh-b58125354/`
   - X / Twitter: `https://x.com/realManroop`
-  - Email: `manroopsinghbhogal@gmail.com`
+  - Email: `imbhogal17@gmail.com`
 
 ---
 

@@ -7,7 +7,7 @@
 ## 1. User & Persona Profile
 - **Full Name**: Manroop Singh Bhogal
 - **Monogram**: `MSB.`
-- **Email**: `manroopsinghbhogal@gmail.com`
+- **Email**: `imbhogal17@gmail.com`
 - **GitHub Username**: `MANROOP-SINGH-01`
 - **GitHub Profile**: `https://github.com/MANROOP-SINGH-01`
 - **LinkedIn**: `https://www.linkedin.com/in/manroop-singh-b58125354/`

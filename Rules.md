@@ -16,7 +16,7 @@
 ### 2.2. Branding & Identity Integrity
 - **Target Persona**: **Manroop Singh Bhogal**
 - **Monogram**: `MSB.`
-- **Email**: `manroopsinghbhogal@gmail.com`
+- **Email**: `imbhogal17@gmail.com`
 - **GitHub Root**: `https://github.com/MANROOP-SINGH-01`
 - **LinkedIn**: `https://www.linkedin.com/in/manroop-singh-b58125354/`
 - **X / Twitter**: `https://x.com/realManroop`
