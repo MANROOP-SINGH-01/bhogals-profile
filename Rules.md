@@ -20,7 +20,7 @@
 - **GitHub Root**: `https://github.com/MANROOP-SINGH-01`
 - **LinkedIn**: `https://www.linkedin.com/in/manroop-singh-b58125354/`
 - **X / Twitter**: `https://x.com/realManroop`
-- **NEVER** re-introduce the original creator's name ("Aditya Shelke", "adityashelke04") into any file.
+- **NEVER** re-introduce external author names or obsolete creator references into any file.
 - **NEVER** link out to broken or external third-party repositories when Manroop's own fork/mirror exists.
 
 ### 2.3. Token & Context Conservation Rules

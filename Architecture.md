@@ -81,9 +81,7 @@ c:\INFINTY\WORK\HOBBIES - HUSTLE\
     ├── job-scheduler-using-cloudsim\        # Java CloudSim simulator
     ├── Adjacency-Matrix\                    # Java Graph data structure
     ├── Rock-Paper-Scissors-Game\            # Vanilla JS game
-    ├── ai-fun\                              # Astro exploration sandbox
-    ├── AI-for-Bharat-Project\               # Requirements architecture
-    └── adityashelke04\                      # Original profile reference
+    └── AI-for-Bharat-Project\               # Requirements architecture
 ```
 
 ---
